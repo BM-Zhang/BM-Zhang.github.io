@@ -16,4 +16,4 @@ My main interest is in Phonetics, Speech perception and Clinical Linguistics.
 
 You can find my email [here](mailto:b.zhang803@foxmail.com).
 
-Temporary link for [ULAB](https://github.com/BM-Zhang/BM-Zhang.github.io/blob/master/files/ULAB2024-Bomiao%20Zhang%20Pres.pptx).
+Temporary link for [ULAB](../files/ULAB2024-Bomiao%Zhang%Pres.pptx)
