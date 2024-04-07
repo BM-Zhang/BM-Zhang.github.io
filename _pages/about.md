@@ -14,6 +14,6 @@ I am supervised by [Dr. Ye Feng at Dept. of Ling, BLCU](https://linguistics.blcu
 
 My main interest is in Phonetics, Speech perception and Clinical Linguistics.
 
-You can find my email [here](mailto:b.zhang803@foxmail.com).
+You can find my mailbox [here](mailto:b.zhang803@foxmail.com).
 
 Temporary link for [ULAB](../files/ULAB2024-Bomiao-Zhang-Pres.pptx)
