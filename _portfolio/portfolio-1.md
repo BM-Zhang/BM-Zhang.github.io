@@ -1,6 +1,6 @@
 ---
 title: "Institute for Chomsky Studies"
-excerpt: "This is the logo I designed for the Institute for Chomsky Studies at Dept of Ling, BLCU. 1<br/><img src='/images/500x300.png'>"
+excerpt: "This is the logo I designed for the Institute for Chomsky Studies at Dept of Ling, BLCU. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
