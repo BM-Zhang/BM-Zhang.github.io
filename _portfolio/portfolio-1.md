@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Institute for Chomsky Studies"
+excerpt: "This is the logo I designed for the Institute for Chomsky Studies at Dept of Ling, BLCU. 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+You can see the logo in this [news article](https://news.sciencenet.cn/htmlnews/2022/9/486677.shtm).
