@@ -9,8 +9,8 @@ main:
   #- title: "Teaching"
     #url: /teaching/    
     
-  #- title: "Portofolio"
-    #url: /portfolio/
+  - title: "Portofolio"
+    url: /portfolio/
         
   - title: "Repositories"
     url: /year-archive/
