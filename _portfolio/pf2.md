@@ -1,6 +1,6 @@
 ---
 title: "NIJISANJI ID Fansub"
-excerpt: "A fansub led by me. Just for fulfilling leisure time. 
+excerpt: "A fansub led by me. Just for fulfilling leisure time." 
 collection: portfolio
 ---
 
