@@ -12,8 +12,8 @@ I am a undergraduate student at [Department of Linguistics, Beijing Language and
 
 During my time in Beijing I was supervised by [Dr. Ye Feng at Dept. of Ling, BLCU](https://linguistics.blcu.edu.cn/info/1268/2404.htm).
 
+I am currently supervised by Dr. Colin Bannard. 
+
 My main interest is in Phonetics, Speech perception and Clinical Linguistics.
 
-You can find my email [here](mailto:b.zhang803@foxmail.com).
-
-Temporary link for [ULAB](../files/ULAB2024-Bomiao-Zhang-Pres.pptx)
+Feel free to contact me [here](mailto:b.zhang803@foxmail.com) or [here](mailto:bomiao.zhang@student.manchester.ac.uk)
