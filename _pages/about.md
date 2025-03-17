@@ -16,4 +16,4 @@ I am currently supervised by Dr. Colin Bannard.
 
 I mainly focus on phonetics and prosodic analysis of speech, as well as their applications in clinical studies.
 
-Feel free to contact me [here](mailto:b.zhang803@foxmail.com) or [here](mailto:bomiao.zhang@student.manchester.ac.uk)
+Feel free to contact me [here](mailto:b.zhang803@foxmail.com) or [here](mailto:bomiao.zhang@student.manchester.ac.uk).
