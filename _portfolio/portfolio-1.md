@@ -5,10 +5,9 @@ collection: portfolio
 ---
 From 2025 the Department of Linguistics at Beijing Language and Culture University ceased to exist after merging into the newly established School of Linguistics and Language Resources. 
 
-Here is a selection of media and promotional materials that I have done for the department, as a memorial for the department and my enthusiastic undergraduate life at BLCU.
+Here is a selection of media and promotional materials that I did for the department, as a memorial for both the department and my enthusiastic undergraduate life at BLCU. 
 
-
-[This](https://drive.google.com/file/d/1M0Zj2pARIWMfaCPQppBNxa6DqPDYUhGX/view?usp=sharing) is an introduction video of the department. It has been used in summer schools and welcoming ceremonies for new students. It is by no mean a high quality video but it functions properly as a promotional material.
+[This](https://drive.google.com/file/d/1M0Zj2pARIWMfaCPQppBNxa6DqPDYUhGX/view?usp=sharing) is an introduction video of the department. It was used in summer schools and welcoming ceremonies for new students. It is by no mean a high quality video but it functions properly as a promotional material.
 
 This is the logo that I designed for the Institute for Chomsky Studies, Dept of Ling, BLCU.
 <br/><img src='/images/logo-test4-min.png'>
