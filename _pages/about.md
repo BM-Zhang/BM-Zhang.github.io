@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a dual degree linguistics undergraduate student at the Beijing Language and Culture University and the University of Manchester. 
+I am a dual degree Linguistics undergraduate student at the Beijing Language and Culture University and the University of Manchester. 
 
 I am supervised by [Dr. Ye Feng at BLCU](https://linguistics.blcu.edu.cn/info/1281/3013.htm). (You can find me at the bottom of the webpage.) and Dr. Colin Bannard at Manchester. 
 
