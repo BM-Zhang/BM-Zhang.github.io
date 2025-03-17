@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a dual degree undergraduate student at the Department of Linguistics (now School of Linguistics and Language Resources), Beijing Language and Culture University and the Department of Linguistics and English Language at the University of Manchester. 
+I am a dual degree linguistics undergraduate student at the Beijing Language and Culture University and the University of Manchester. 
 
-I am supervised by [Dr. Ye Feng at Dept. of Ling, BLCU](https://linguistics.blcu.edu.cn/info/1281/3013.htm). (You can find me at the bottom of the webpage.) and Dr. Colin Bannard at Manchester. 
+I am supervised by [Dr. Ye Feng at BLCU](https://linguistics.blcu.edu.cn/info/1281/3013.htm). (You can find me at the bottom of the webpage.) and Dr. Colin Bannard at Manchester. 
 
 I mainly focus on phonetics and prosodic analysis of speech, as well as their applications in clinical studies.
 
