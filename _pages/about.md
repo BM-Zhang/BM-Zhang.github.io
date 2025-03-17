@@ -14,6 +14,6 @@ During my time in Beijing I was supervised by [Dr. Ye Feng at Dept. of Ling, BLC
 
 I am currently supervised by Dr. Colin Bannard. 
 
-My main interest is in phonetics, speech perception and clinical linguistics.
+I mainly focus on phonetics and prosodic analysis of speech, as well as their applications in clinical studies.
 
 Feel free to contact me [here](mailto:b.zhang803@foxmail.com) or [here](mailto:bomiao.zhang@student.manchester.ac.uk)
