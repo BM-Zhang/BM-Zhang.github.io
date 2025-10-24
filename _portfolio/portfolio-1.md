@@ -11,6 +11,7 @@ Here is a selection of media and promotional materials that I did for the depart
 
 - This is the logo that I designed for the Institute for Chomsky Studies, Dept of Ling, BLCU.
 <br/><img src='/images/logo-test4-min.png'>
+
 You can see the logo in this [news article](https://news.sciencenet.cn/htmlnews/2022/9/486677.shtm) about the inauguration ceremony of the institute.
 
 
