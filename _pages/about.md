@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postgraduate student in the [EMCL-25 programme](https://emcl.eu/).
 
-Previously I was a dual degree Linguistics undergraduate student at Beijing Language and Culture University and the University of Manchester, under supervision of [Dr. Ye Feng](https://faculty.blcu.edu.cn/fengye/zh_CN/index.htm).
+Previously I was an undergraduate student in the [dual-degree Linguistics programme](https://www.alc.manchester.ac.uk/connect/collaborative-partnerships/) at Beijing Language and Culture University and the University of Manchester, under supervision of [Dr. Ye Feng](https://faculty.blcu.edu.cn/fengye/zh_CN/index.htm).
 
 I primarily focus on phonetics and prosodic analysis of speech, with a particular interest in their clinical applications.
 
