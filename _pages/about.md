@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student in the [EMCL-25 programme](emcl.eu).
+I am a postgraduate student in the [EMCL-25 programme](https://emcl.eu/).
 
 Previously I was a dual degree Linguistics undergraduate student at Beijing Language and Culture University and the University of Manchester, under supervision of [Dr. Ye Feng](https://faculty.blcu.edu.cn/fengye/zh_CN/index.htm).
 
