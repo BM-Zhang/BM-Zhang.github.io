@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a dual degree Linguistics undergraduate student at the Beijing Language and Culture University and the University of Manchester. 
+I am a postgraduate student in the [EMCL-25 programme](emcl.eu).
 
-I am supervised by [Dr. Ye Feng at BLCU](https://linguistics.blcu.edu.cn/info/1281/3013.htm) (you can find me at the bottom of the webpage). and Dr. Colin Bannard at Manchester. 
+Previously I was a dual degree Linguistics undergraduate student at Beijing Language and Culture University and the University of Manchester, under supervision of [Dr. Ye Feng](https://faculty.blcu.edu.cn/fengye/zh_CN/index.htm).
 
-I mainly focus on phonetics and prosodic analysis of speech, as well as their applications in clinical studies.
+I primarily focus on phonetics and prosodic analysis of speech, with a particular interest in their clinical applications.
 
-Feel free to contact me [here](mailto:b.zhang803@foxmail.com) or [here](mailto:bomiao.zhang@student.manchester.ac.uk).
+Currently I am collaborating with Department of Neurology (Prof. Xiaohong Li) at Dalian Municipal Friendship Hospital on a project investigating prosodic features in the speech of Chinese patients with Parkinson's disease.
+
+Feel free to contact me via [here](mailto:b.zhang803@foxmail.com) or [here](mailto:b.zhang.32@student.rug.nl).
